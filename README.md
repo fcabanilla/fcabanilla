@@ -55,6 +55,17 @@ Developed and maintained API and functional automation frameworks.
 
 ---
 
+### 📂 Explore My Work
+- [Weekend Projects](https://github.com/fcabanilla?tab=stars#) 🌟 Fun experiments and personal projects.
+- [Courses and Tutorials](https://github.com/fcabanilla?tab=stars#) 📚 Projects created while learning.
+- [University Projects](https://github.com/fcabanilla?tab=stars#) 🎓 Assignments from my Computer Science degree.
+- [Collaborations](https://github.com/fcabanilla?tab=stars#) 🤝 Projects built with teams or open-source contributions.
+- [First Steps in Development](https://github.com/fcabanilla?tab=stars#) ⭐ My early programming journey.
+- [Others](https://github.com/fcabanilla?tab=stars#) 📂 Miscellaneous projects.
+
+
+---
+
 ### 📫 Get in Touch
 
 - LinkedIn: [Federico Cabanilla](https://www.linkedin.com/in/fcabanilla/)
