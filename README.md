@@ -56,13 +56,12 @@ Developed and maintained API and functional automation frameworks.
 ---
 
 ### 📂 Explore My Work
-- [Weekend Projects](https://github.com/fcabanilla?tab=stars#) 🌟 Fun experiments and personal projects.
-- [Courses and Tutorials](https://github.com/fcabanilla?tab=stars#) 📚 Projects created while learning.
-- [University Projects](https://github.com/fcabanilla?tab=stars#) 🎓 Assignments from my Computer Science degree.
-- [Collaborations](https://github.com/fcabanilla?tab=stars#) 🤝 Projects built with teams or open-source contributions.
-- [First Steps in Development](https://github.com/fcabanilla?tab=stars#) ⭐ My early programming journey.
-- [Others](https://github.com/fcabanilla?tab=stars#) 📂 Miscellaneous projects.
-
+1. [First Steps in Development](https://github.com/stars/fcabanilla/lists/first-steps-in-development) ⭐ My early programming journey.
+2. [University Projects](https://github.com/stars/fcabanilla/lists/university-projects) 🎓 Assignments from my Computer Science degree.
+3. [Courses and Tutorials](https://github.com/stars/fcabanilla/lists/courses-and-tutorials) 📚 Projects created while learning.
+4. [Weekend Projects](https://github.com/stars/fcabanilla/lists/weekend-projects) 🌟 Fun experiments and personal projects.
+5. [Collaborations](https://github.com/stars/fcabanilla/lists/collaborations) 🤝 Projects built with teams or open-source contributions.
+6. [Others](https://github.com/stars/fcabanilla/lists/others) 📂 Miscellaneous projects.
 
 ---
 
