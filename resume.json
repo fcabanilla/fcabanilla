@@ -1,5 +1,5 @@
 {
-  "selectedTemplate": 4,
+  "selectedTemplate": 1,
   "headings": {
     "awards": ""
   },
@@ -102,11 +102,22 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": ["Java", "JavaScript", "Node.js", "Python", "C++"]
+      "keywords": [
+        "Java",
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "C++"
+      ]
     },
     {
       "name": "Testing Tools",
-      "keywords": ["Playwright", "Selenium", "Postman (Scripting)", "JUnit"]
+      "keywords": [
+        "Playwright",
+        "Selenium",
+        "Postman (Scripting)",
+        "JUnit"
+      ]
     },
     {
       "name": "DevOps Tools",
@@ -121,7 +132,11 @@
     },
     {
       "name": "Databases",
-      "keywords": ["MySQL", "MongoDB", "PostgreSQL"]
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL"
+      ]
     },
     {
       "name": "AI & Automation Tools",
@@ -131,7 +146,12 @@
     },
     {
       "name": "Other Tools",
-      "keywords": ["Swagger", "Bash", "Ansible", "GIT"]
+      "keywords": [
+        "Swagger",
+        "Bash",
+        "Ansible",
+        "GIT"
+      ]
     },
     {
       "name": "Methodologies",
@@ -144,7 +164,9 @@
   "projects": [
     {
       "url": "",
-      "keywords": [null]
+      "keywords": [
+        null
+      ]
     }
   ],
   "awards": [
