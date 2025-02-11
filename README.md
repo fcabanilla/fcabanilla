@@ -81,4 +81,8 @@ The [JSON](resume.json) file in this repository is compatible with the online to
 
 ---
 
+### 🛠️ My Roadmap
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6729bf0631d65c235dba45cc?variant=dark&roadmaps=backend%2Cqa%2Cdevops)](https://roadmap.sh)
+
 Feel free to explore my repositories and connect with me for collaboration opportunities!
