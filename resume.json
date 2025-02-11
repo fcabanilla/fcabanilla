@@ -1,0 +1,166 @@
+{
+  "selectedTemplate": 4,
+  "headings": {
+    "awards": ""
+  },
+  "basics": {
+    "name": "Federico Cabanilla",
+    "email": "federico.cabanilla@gmail.com",
+    "phone": "+5493517736362",
+    "location": {
+      "address": "Cordoba, Argentina"
+    },
+    "website": [
+      "https://www.linkedin.com/in/fcabanilla/",
+      "https://github.com/fcabanilla"
+    ]
+  },
+  "education": [
+    {
+      "institution": "Aeronautical University Institute (Instituto Universitario Aeronautico)",
+      "location": "Cordoba, Argentina",
+      "area": "Computer Science",
+      "studyType": "Associate’s Degree in Programming",
+      "endDate": "December 2017",
+      "startDate": "March 2012"
+    }
+  ],
+  "work": [
+    {
+      "company": "Microsoft (RiskIQ)",
+      "location": "Remote, Argentina",
+      "position": "QA Automation Engineer",
+      "website": "",
+      "endDate": "Present",
+      "highlights": [
+        "Automated API testing using Postman and functional testing with Playwright and Selenium.",
+        "Developed and maintained API automation frameworks using Playwright (TypeScript) and Serenity (Java).",
+        "Designed and executed test plans for functional, regression, and integration testing.",
+        "Performed manual testing and bug triaging/export for effective issue resolution.",
+        "Collaborated with cross-functional teams to ensure high-quality deliverables.",
+        "Conducted test coverage analysis and improved automation test pipelines in Azure DevOps.",
+        "Led POC development and presented solutions to stakeholders.",
+        "Enhanced CI/CD pipelines using Azure and GitHub Actions."
+      ],
+      "startDate": "December 2020"
+    },
+    {
+      "company": "Box Custodia",
+      "position": "Backend Developer & Project Architect",
+      "location": "Cordoba, Argentina",
+      "startDate": "May 2021",
+      "endDate": "March 2022",
+      "highlights": [
+        "Developed backend functionalities and APIs using Java Spring Boot.",
+        "Designed, modeled, and created relational databases (Postgres).",
+        "Defined the architecture and technical design of the project.",
+        "Implemented and maintained RESTful APIs.",
+        "Conducted code reviews and optimized database queries."
+      ]
+    },
+    {
+      "company": "Cardio Cuore Clinic",
+      "location": "Cordoba, Argentina",
+      "position": "Software Developer & QA Specialist",
+      "website": "",
+      "endDate": "October 2020",
+      "highlights": [
+        "Developed and maintained software solutions to optimize patient data management.",
+        "Designed and implemented backend APIs using Node.js and Express.",
+        "Created automated testing frameworks for internal tools and systems.",
+        "Worked with SQL databases to ensure data accuracy and reliability.",
+        "Collaborated with medical staff to translate requirements into technical solutions.",
+        "Conducted unit, integration, and E2E testing for new features."
+      ],
+      "startDate": "July 2019"
+    },
+    {
+      "company": "Educacion IT",
+      "position": "Instructor",
+      "location": "Cordoba, Argentina",
+      "startDate": "September 2019",
+      "endDate": "February 2020",
+      "highlights": [
+        "Delivered courses on Linux, SQL, JavaScript, and web development.",
+        "Created educational materials and practical guides for students."
+      ]
+    },
+    {
+      "company": "National University of Cordoba",
+      "position": "Business Intelligence Analyst",
+      "location": "Cordoba, Argentina",
+      "startDate": "October 2017",
+      "endDate": "July 2019",
+      "highlights": [
+        "Built Data Warehouses and developed ETL processes using Pentaho.",
+        "Designed data models and developed OLAP dashboards for strategic decision-making.",
+        "Created statistical reports for data-driven business insights."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Java", "JavaScript", "Node.js", "Python", "C++"]
+    },
+    {
+      "name": "Testing Tools",
+      "keywords": ["Playwright", "Selenium", "Postman (Scripting)", "JUnit"]
+    },
+    {
+      "name": "DevOps Tools",
+      "keywords": [
+        "Docker",
+        "Docker-Compose",
+        "Vagrant",
+        "Jenkins",
+        "Azure DevOps",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["MySQL", "MongoDB", "PostgreSQL"]
+    },
+    {
+      "name": "AI & Automation Tools",
+      "keywords": [
+        "Regular user of LLMs (e.g., ChatGPT, OpenAI APIs) and other AI-based tools for enhancing workflows, improving testing strategies, and automating repetitive tasks."
+      ]
+    },
+    {
+      "name": "Other Tools",
+      "keywords": ["Swagger", "Bash", "Ansible", "GIT"]
+    },
+    {
+      "name": "Methodologies",
+      "keywords": [
+        "Agile (Scrum)",
+        "Continuous Integration/Continuous Deployment (CI/CD)"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "url": "",
+      "keywords": [null]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
