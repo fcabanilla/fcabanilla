@@ -20,7 +20,7 @@
       "institution": "Aeronautical University Institute (Instituto Universitario Aeronautico)",
       "location": "Cordoba, Argentina",
       "area": "Computer Science",
-      "studyType": "Associate’s Degree in Programming",
+      "studyType": "Bachelor’s Degree in Programming",
       "endDate": "December 2017",
       "startDate": "March 2012"
     }
@@ -35,8 +35,9 @@
       "highlights": [
         "Automated API testing using Postman and functional testing with Playwright and Selenium.",
         "Developed and maintained API automation frameworks using Playwright (TypeScript) and Serenity (Java).",
-        "Designed and executed test plans for functional, regression, and integration testing.",
+        "Designed and executed test plans for functional, regression, integration, and performance testing.",
         "Performed manual testing and bug triaging/export for effective issue resolution.",
+        "Implemented performance testing using JMeter and Azure Load Testing, integrating JMeter scripts into cloud-based load testing scenarios.",
         "Collaborated with cross-functional teams to ensure high-quality deliverables.",
         "Conducted test coverage analysis and improved automation test pipelines in Azure DevOps.",
         "Led POC development and presented solutions to stakeholders.",
