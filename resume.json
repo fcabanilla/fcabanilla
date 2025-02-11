@@ -10,7 +10,10 @@
     "location": {
       "address": "Cordoba, Argentina"
     },
-    "website": "https://www.linkedin.com/in/fcabanilla/"
+    "website": [
+      "https://www.linkedin.com/in/fcabanilla/",
+      "https://github.com/fcabanilla"
+    ]
   },
   "education": [
     {
