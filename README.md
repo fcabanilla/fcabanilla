@@ -56,6 +56,7 @@ Developed and maintained API and functional automation frameworks.
 ---
 
 ### 📂 Explore My Work
+
 1. [First Steps in Development](https://github.com/stars/fcabanilla/lists/first-steps-in-development) ⭐ My early programming journey.
 2. [University Projects](https://github.com/stars/fcabanilla/lists/university-projects) 🎓 Assignments from my Computer Science degree.
 3. [Courses and Tutorials](https://github.com/stars/fcabanilla/lists/courses-and-tutorials) 📚 Projects created while learning.
@@ -64,6 +65,14 @@ Developed and maintained API and functional automation frameworks.
 6. [Others](https://github.com/stars/fcabanilla/lists/others) 📂 Miscellaneous projects.
 
 ---
+
+## Resume
+
+You can find my resume in PDF format [here](./resume.pdf).
+
+## Resumake.io Tool
+
+The [JSON](resume.json) file in this repository is compatible with the online tool [resumake.io](https://resumake.io).
 
 ### 📫 Get in Touch
 
